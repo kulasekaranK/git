@@ -1,6 +1,1 @@
-Kulasekaran,
-5/1, Vinayager Sannathi Strret,
-Keela Pathai,
-Kalakad,
-Tirunelveli - 627501,
-mobile: +91 8883635144
+This is the local version of dummy.txt.
